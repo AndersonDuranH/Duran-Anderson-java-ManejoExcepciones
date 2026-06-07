@@ -67,12 +67,16 @@ GitHub
 
 ### Estructura del Proyecto
 
+### Estructura del Proyecto
+
 ```text
 Tarea Manejo de Excepciones
 ├── Evidencias
 │   ├── registro-exitoso.png
 │   ├── error-nombre.png
+│   ├── error-edad.png
 │   ├── error-correo.png
+│   ├── error-salario.png
 ├── CorreoInvalidoException.java
 ├── CorreoInvalidoException.class
 ├── EdadInvalidaException.java
@@ -87,6 +91,7 @@ Tarea Manejo de Excepciones
 ├── ValidadorUsuario.class
 └── README.md
 ```
+
 
 ## CONCEPTOS APLICADOS
 
